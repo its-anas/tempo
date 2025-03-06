@@ -1,6 +1,18 @@
 [
-    "CUSTOMER",
-    "ORDER",
-    "PRODUCT",
-    "PRODUCT_VARIANT"
- ]
+   {
+      "subject_type":"PRODUCT_VARIANT",
+      "count":1426
+   },
+   {
+      "subject_type":"ORDER",
+      "count":676
+   },
+   {
+      "subject_type":"CUSTOMER",
+      "count":175
+   },
+   {
+      "subject_type":"PRODUCT",
+      "count":64
+   }
+]
