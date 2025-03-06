@@ -1,6 +1,22 @@
 [
-    "ACCOUNT",
-    "ADGROUP",
-    "CAMPAIGN",
-    "CAMPAIGN_GROUP"
- ]
+   {
+      "subject_type":"ADGROUP",
+      "count":1874
+   },
+   {
+      "subject_type":"CAMPAIGN",
+      "count":763
+   },
+   {
+      "subject_type":"ACCOUNT",
+      "count":566
+   },
+   {
+      "subject_type":"CAMPAIGN_GROUP",
+      "count":188
+   },
+   {
+      "subject_type":null,
+      "count":65
+   }
+]
